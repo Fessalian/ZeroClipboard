@@ -18,3 +18,4 @@ However, there is a way for you to edit your local Flash Player security setting
 http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04a.html
 
 And add the path to your local "ZeroClipboard.swf" file to the trusted files list, or try the "allow all" option.
+http://www.steamdev.com/zclip/
